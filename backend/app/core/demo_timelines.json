@@ -1,0 +1,1356 @@
+{
+  "cctv_camera_feed.mp4": {
+    "clock_offset_sec": 58,
+    "fps": 30.0,
+    "events": [
+      {
+        "id": 2446,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 1,
+        "pass_frame": 19,
+        "timestamp": "00:58",
+        "check_bbox": [
+          126,
+          163,
+          261,
+          350
+        ],
+        "pass_bbox": [
+          131,
+          228,
+          256,
+          415
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2445,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 8,
+        "pass_frame": 26,
+        "timestamp": "00:58",
+        "check_bbox": [
+          701,
+          160,
+          855,
+          386
+        ],
+        "pass_bbox": [
+          706,
+          199,
+          850,
+          451
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2454,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 13,
+        "pass_frame": 31,
+        "timestamp": "00:59",
+        "check_bbox": [
+          5,
+          281,
+          288,
+          468
+        ],
+        "pass_bbox": [
+          10,
+          346,
+          283,
+          533
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2466,
+        "type": "BIKE",
+        "status": "NO HELMET",
+        "is_violation": true,
+        "check_start_frame": 29,
+        "pass_frame": 47,
+        "timestamp": "00:59",
+        "check_bbox": [
+          1017,
+          241,
+          1250,
+          428
+        ],
+        "pass_bbox": [
+          1022,
+          306,
+          1245,
+          493
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2495,
+        "type": "CAR",
+        "status": "NO SEATBELT",
+        "is_violation": true,
+        "check_start_frame": 50,
+        "pass_frame": 68,
+        "timestamp": "01:00",
+        "check_bbox": [
+          23,
+          178,
+          394,
+          430
+        ],
+        "pass_bbox": [
+          28,
+          243,
+          389,
+          495
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2508,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 58,
+        "pass_frame": 76,
+        "timestamp": "01:00",
+        "check_bbox": [
+          380,
+          330,
+          500,
+          516
+        ],
+        "pass_bbox": [
+          385,
+          395,
+          495,
+          581
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2509,
+        "type": "BIKE",
+        "status": "NO HELMET",
+        "is_violation": true,
+        "check_start_frame": 65,
+        "pass_frame": 83,
+        "timestamp": "01:00",
+        "check_bbox": [
+          847,
+          275,
+          1148,
+          485
+        ],
+        "pass_bbox": [
+          852,
+          340,
+          1143,
+          550
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2554,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 131,
+        "pass_frame": 149,
+        "timestamp": "01:02",
+        "check_bbox": [
+          9,
+          186,
+          192,
+          438
+        ],
+        "pass_bbox": [
+          14,
+          251,
+          187,
+          503
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2562,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 158,
+        "pass_frame": 176,
+        "timestamp": "01:03",
+        "check_bbox": [
+          352,
+          208,
+          477,
+          460
+        ],
+        "pass_bbox": [
+          357,
+          273,
+          472,
+          525
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2564,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 164,
+        "pass_frame": 182,
+        "timestamp": "01:04",
+        "check_bbox": [
+          527,
+          396,
+          672,
+          606
+        ],
+        "pass_bbox": [
+          532,
+          461,
+          667,
+          671
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2576,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 169,
+        "pass_frame": 187,
+        "timestamp": "01:04",
+        "check_bbox": [
+          986,
+          160,
+          1085,
+          379
+        ],
+        "pass_bbox": [
+          991,
+          223,
+          1080,
+          444
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2560,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 173,
+        "pass_frame": 191,
+        "timestamp": "01:04",
+        "check_bbox": [
+          576,
+          160,
+          742,
+          337
+        ],
+        "pass_bbox": [
+          581,
+          192,
+          737,
+          402
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2578,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 179,
+        "pass_frame": 197,
+        "timestamp": "01:04",
+        "check_bbox": [
+          524,
+          292,
+          787,
+          502
+        ],
+        "pass_bbox": [
+          529,
+          357,
+          782,
+          567
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2614,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 205,
+        "pass_frame": 223,
+        "timestamp": "01:05",
+        "check_bbox": [
+          538,
+          344,
+          617,
+          522
+        ],
+        "pass_bbox": [
+          543,
+          409,
+          612,
+          587
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2627,
+        "type": "CAR",
+        "status": "NO SEATBELT",
+        "is_violation": true,
+        "check_start_frame": 227,
+        "pass_frame": 245,
+        "timestamp": "01:06",
+        "check_bbox": [
+          5,
+          186,
+          344,
+          438
+        ],
+        "pass_bbox": [
+          10,
+          251,
+          339,
+          503
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2642,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 251,
+        "pass_frame": 269,
+        "timestamp": "01:06",
+        "check_bbox": [
+          74,
+          160,
+          240,
+          408
+        ],
+        "pass_bbox": [
+          79,
+          221,
+          235,
+          473
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2650,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 258,
+        "pass_frame": 276,
+        "timestamp": "01:07",
+        "check_bbox": [
+          208,
+          367,
+          353,
+          577
+        ],
+        "pass_bbox": [
+          213,
+          432,
+          348,
+          642
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2648,
+        "type": "BIKE",
+        "status": "NO HELMET",
+        "is_violation": true,
+        "check_start_frame": 265,
+        "pass_frame": 283,
+        "timestamp": "01:07",
+        "check_bbox": [
+          814,
+          253,
+          1115,
+          463
+        ],
+        "pass_bbox": [
+          819,
+          318,
+          1110,
+          528
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2670,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 282,
+        "pass_frame": 300,
+        "timestamp": "01:08",
+        "check_bbox": [
+          502,
+          160,
+          739,
+          446
+        ],
+        "pass_bbox": [
+          507,
+          200,
+          734,
+          511
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2672,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 288,
+        "pass_frame": 306,
+        "timestamp": "01:08",
+        "check_bbox": [
+          779,
+          245,
+          1045,
+          455
+        ],
+        "pass_bbox": [
+          784,
+          310,
+          1040,
+          520
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2673,
+        "type": "CAR",
+        "status": "NO SEATBELT",
+        "is_violation": true,
+        "check_start_frame": 290,
+        "pass_frame": 308,
+        "timestamp": "01:08",
+        "check_bbox": [
+          672,
+          160,
+          952,
+          427
+        ],
+        "pass_bbox": [
+          677,
+          212,
+          947,
+          492
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2675,
+        "type": "BIKE",
+        "status": "NO HELMET",
+        "is_violation": true,
+        "check_start_frame": 294,
+        "pass_frame": 312,
+        "timestamp": "01:08",
+        "check_bbox": [
+          5,
+          263,
+          317,
+          450
+        ],
+        "pass_bbox": [
+          10,
+          328,
+          312,
+          515
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2688,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 304,
+        "pass_frame": 322,
+        "timestamp": "01:08",
+        "check_bbox": [
+          526,
+          255,
+          790,
+          465
+        ],
+        "pass_bbox": [
+          531,
+          320,
+          785,
+          530
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2709,
+        "type": "BIKE",
+        "status": "NO HELMET",
+        "is_violation": true,
+        "check_start_frame": 329,
+        "pass_frame": 347,
+        "timestamp": "01:09",
+        "check_bbox": [
+          465,
+          218,
+          528,
+          392
+        ],
+        "pass_bbox": [
+          470,
+          283,
+          523,
+          457
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2728,
+        "type": "BIKE",
+        "status": "NO HELMET",
+        "is_violation": true,
+        "check_start_frame": 333,
+        "pass_frame": 351,
+        "timestamp": "01:09",
+        "check_bbox": [
+          704,
+          389,
+          756,
+          551
+        ],
+        "pass_bbox": [
+          709,
+          454,
+          751,
+          616
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2744,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 353,
+        "pass_frame": 371,
+        "timestamp": "01:10",
+        "check_bbox": [
+          696,
+          160,
+          860,
+          337
+        ],
+        "pass_bbox": [
+          701,
+          192,
+          855,
+          402
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2746,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 357,
+        "pass_frame": 375,
+        "timestamp": "01:10",
+        "check_bbox": [
+          470,
+          400,
+          750,
+          680
+        ],
+        "pass_bbox": [
+          475,
+          465,
+          745,
+          745
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2745,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 359,
+        "pass_frame": 377,
+        "timestamp": "01:10",
+        "check_bbox": [
+          195,
+          247,
+          306,
+          434
+        ],
+        "pass_bbox": [
+          200,
+          312,
+          301,
+          499
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2755,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 371,
+        "pass_frame": 389,
+        "timestamp": "01:10",
+        "check_bbox": [
+          838,
+          259,
+          1103,
+          469
+        ],
+        "pass_bbox": [
+          843,
+          324,
+          1098,
+          534
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2797,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 402,
+        "pass_frame": 420,
+        "timestamp": "01:12",
+        "check_bbox": [
+          579,
+          320,
+          649,
+          488
+        ],
+        "pass_bbox": [
+          584,
+          385,
+          644,
+          553
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2808,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 414,
+        "pass_frame": 432,
+        "timestamp": "01:12",
+        "check_bbox": [
+          0,
+          207,
+          278,
+          605
+        ],
+        "pass_bbox": [
+          0,
+          272,
+          273,
+          670
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2809,
+        "type": "CAR",
+        "status": "NO SEATBELT",
+        "is_violation": true,
+        "check_start_frame": 421,
+        "pass_frame": 439,
+        "timestamp": "01:12",
+        "check_bbox": [
+          353,
+          223,
+          621,
+          533
+        ],
+        "pass_bbox": [
+          358,
+          288,
+          616,
+          598
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2850,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 444,
+        "pass_frame": 462,
+        "timestamp": "01:13",
+        "check_bbox": [
+          817,
+          309,
+          928,
+          495
+        ],
+        "pass_bbox": [
+          822,
+          374,
+          923,
+          560
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2893,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 454,
+        "pass_frame": 472,
+        "timestamp": "01:13",
+        "check_bbox": [
+          387,
+          315,
+          486,
+          482
+        ],
+        "pass_bbox": [
+          392,
+          380,
+          481,
+          547
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2877,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 462,
+        "pass_frame": 480,
+        "timestamp": "01:14",
+        "check_bbox": [
+          900,
+          255,
+          1166,
+          465
+        ],
+        "pass_bbox": [
+          905,
+          320,
+          1161,
+          530
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2898,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 464,
+        "pass_frame": 482,
+        "timestamp": "01:14",
+        "check_bbox": [
+          932,
+          227,
+          1030,
+          497
+        ],
+        "pass_bbox": [
+          937,
+          292,
+          1025,
+          562
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2929,
+        "type": "CAR",
+        "status": "NO SEATBELT",
+        "is_violation": true,
+        "check_start_frame": 491,
+        "pass_frame": 509,
+        "timestamp": "01:14",
+        "check_bbox": [
+          75,
+          188,
+          405,
+          577
+        ],
+        "pass_bbox": [
+          80,
+          253,
+          400,
+          642
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2947,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 502,
+        "pass_frame": 520,
+        "timestamp": "01:15",
+        "check_bbox": [
+          808,
+          249,
+          939,
+          479
+        ],
+        "pass_bbox": [
+          813,
+          314,
+          934,
+          544
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2979,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 529,
+        "pass_frame": 547,
+        "timestamp": "01:16",
+        "check_bbox": [
+          792,
+          293,
+          1059,
+          503
+        ],
+        "pass_bbox": [
+          797,
+          358,
+          1054,
+          568
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 3004,
+        "type": "CAR",
+        "status": "NO SEATBELT",
+        "is_violation": true,
+        "check_start_frame": 547,
+        "pass_frame": 565,
+        "timestamp": "01:16",
+        "check_bbox": [
+          71,
+          160,
+          386,
+          401
+        ],
+        "pass_bbox": [
+          76,
+          214,
+          381,
+          466
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 3009,
+        "type": "CAR",
+        "status": "NO SEATBELT",
+        "is_violation": true,
+        "check_start_frame": 553,
+        "pass_frame": 571,
+        "timestamp": "01:17",
+        "check_bbox": [
+          389,
+          204,
+          730,
+          456
+        ],
+        "pass_bbox": [
+          394,
+          269,
+          725,
+          521
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 3014,
+        "type": "CAR",
+        "status": "NO SEATBELT",
+        "is_violation": true,
+        "check_start_frame": 570,
+        "pass_frame": 588,
+        "timestamp": "01:17",
+        "check_bbox": [
+          301,
+          232,
+          574,
+          587
+        ],
+        "pass_bbox": [
+          306,
+          297,
+          569,
+          652
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 3041,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 596,
+        "pass_frame": 614,
+        "timestamp": "01:18",
+        "check_bbox": [
+          5,
+          160,
+          324,
+          409
+        ],
+        "pass_bbox": [
+          10,
+          222,
+          319,
+          474
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 3044,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 599,
+        "pass_frame": 617,
+        "timestamp": "01:18",
+        "check_bbox": [
+          544,
+          267,
+          808,
+          477
+        ],
+        "pass_bbox": [
+          549,
+          332,
+          803,
+          542
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 3054,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 628,
+        "pass_frame": 646,
+        "timestamp": "01:19",
+        "check_bbox": [
+          54,
+          177,
+          193,
+          429
+        ],
+        "pass_bbox": [
+          59,
+          242,
+          188,
+          494
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 3053,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 646,
+        "pass_frame": 664,
+        "timestamp": "01:20",
+        "check_bbox": [
+          923,
+          238,
+          1187,
+          448
+        ],
+        "pass_bbox": [
+          928,
+          303,
+          1182,
+          513
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 3092,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 658,
+        "pass_frame": 676,
+        "timestamp": "01:20",
+        "check_bbox": [
+          894,
+          160,
+          1039,
+          337
+        ],
+        "pass_bbox": [
+          899,
+          192,
+          1034,
+          402
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 3073,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 664,
+        "pass_frame": 682,
+        "timestamp": "01:20",
+        "check_bbox": [
+          867,
+          260,
+          970,
+          452
+        ],
+        "pass_bbox": [
+          872,
+          325,
+          965,
+          517
+        ],
+        "confidence": 0.91
+      }
+    ]
+  },
+  "sample_feed_raw.mp4": {
+    "clock_offset_sec": 56,
+    "fps": 30.0,
+    "events": [
+      {
+        "id": 2364,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 0,
+        "pass_frame": 14,
+        "timestamp": "00:56",
+        "check_bbox": [
+          178,
+          273,
+          442,
+          483
+        ],
+        "pass_bbox": [
+          183,
+          338,
+          437,
+          548
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2406,
+        "type": "BIKE",
+        "status": "NO HELMET",
+        "is_violation": true,
+        "check_start_frame": 43,
+        "pass_frame": 61,
+        "timestamp": "00:58",
+        "check_bbox": [
+          748,
+          245,
+          1050,
+          455
+        ],
+        "pass_bbox": [
+          753,
+          310,
+          1045,
+          520
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2446,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 74,
+        "pass_frame": 92,
+        "timestamp": "00:59",
+        "check_bbox": [
+          145,
+          160,
+          277,
+          322
+        ],
+        "pass_bbox": [
+          150,
+          200,
+          272,
+          387
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2445,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 82,
+        "pass_frame": 100,
+        "timestamp": "00:59",
+        "check_bbox": [
+          703,
+          160,
+          857,
+          383
+        ],
+        "pass_bbox": [
+          708,
+          196,
+          852,
+          448
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2454,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 86,
+        "pass_frame": 104,
+        "timestamp": "00:59",
+        "check_bbox": [
+          5,
+          255,
+          301,
+          442
+        ],
+        "pass_bbox": [
+          10,
+          320,
+          296,
+          507
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2466,
+        "type": "BIKE",
+        "status": "NO HELMET",
+        "is_violation": true,
+        "check_start_frame": 103,
+        "pass_frame": 121,
+        "timestamp": "01:00",
+        "check_bbox": [
+          1003,
+          257,
+          1256,
+          483
+        ],
+        "pass_bbox": [
+          1008,
+          322,
+          1251,
+          548
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2495,
+        "type": "CAR",
+        "status": "NO SEATBELT",
+        "is_violation": true,
+        "check_start_frame": 124,
+        "pass_frame": 142,
+        "timestamp": "01:00",
+        "check_bbox": [
+          23,
+          175,
+          395,
+          427
+        ],
+        "pass_bbox": [
+          28,
+          240,
+          390,
+          492
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2508,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 132,
+        "pass_frame": 150,
+        "timestamp": "01:01",
+        "check_bbox": [
+          384,
+          308,
+          505,
+          513
+        ],
+        "pass_bbox": [
+          389,
+          373,
+          500,
+          578
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2509,
+        "type": "BIKE",
+        "status": "NO HELMET",
+        "is_violation": true,
+        "check_start_frame": 138,
+        "pass_frame": 156,
+        "timestamp": "01:01",
+        "check_bbox": [
+          864,
+          274,
+          976,
+          507
+        ],
+        "pass_bbox": [
+          869,
+          339,
+          971,
+          572
+        ],
+        "confidence": 0.89
+      },
+      {
+        "id": 2554,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 205,
+        "pass_frame": 223,
+        "timestamp": "01:03",
+        "check_bbox": [
+          9,
+          176,
+          279,
+          428
+        ],
+        "pass_bbox": [
+          14,
+          241,
+          274,
+          493
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2562,
+        "type": "CAR",
+        "status": "SEATBELT",
+        "is_violation": false,
+        "check_start_frame": 231,
+        "pass_frame": 249,
+        "timestamp": "01:04",
+        "check_bbox": [
+          363,
+          185,
+          484,
+          437
+        ],
+        "pass_bbox": [
+          368,
+          250,
+          479,
+          502
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2564,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 238,
+        "pass_frame": 256,
+        "timestamp": "01:04",
+        "check_bbox": [
+          529,
+          397,
+          674,
+          607
+        ],
+        "pass_bbox": [
+          534,
+          462,
+          669,
+          672
+        ],
+        "confidence": 0.91
+      },
+      {
+        "id": 2576,
+        "type": "BIKE",
+        "status": "HELMET",
+        "is_violation": false,
+        "check_start_frame": 242,
+        "pass_frame": 260,
+        "timestamp": "01:04",
+        "check_bbox": [
+          987,
+          160,
+          1089,
+          368
+        ],
+        "pass_bbox": [
+          992,
+          217,
+          1084,
+          433
+        ],
+        "confidence": 0.91
+      }
+    ]
+  }
+}
